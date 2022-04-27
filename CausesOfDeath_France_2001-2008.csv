@@ -1,6 +1,5 @@
-"TIME","GEO","UNIT","SEX","AGE","ICD10","Value","Flag and Footnotes"
-"2001","France","Number","Males","Total","All causes of death (A00-Y89) excluding S00-T98","277 858",""
-"2001","France","Number","Males","Total","Certain infectious and parasitic diseases (A00-B99)","5 347",""
+"2001","France","Number","Males","Total","All causes of death (A00-Y89) excluding S00-T98","277 858",?
+"2001","France","Number","Males","Total","Certain infectious and parasitic diseases (A00-B99)","5 347",?
 "2001","France","Number","Males","Total","Tuberculosis","545",""
 "2001","France","Number","Males","Total","Meningococcal infection","30",""
 "2001","France","Number","Males","Total","Viral hepatitis","471",""
