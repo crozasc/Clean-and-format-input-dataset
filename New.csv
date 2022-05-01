@@ -1,0 +1,1057 @@
+,TIME,GEO,ICD10,Value,Value-binned,Only females,Only males
+0,2001,France,All causes of death (A00-Y89) excluding S00-T98,277858,Alto,0,1
+1,2001,France,Certain infectious and parasitic diseases (A00-B99),5347,Bajo,0,1
+2,2001,France,Tuberculosis,545,Bajo,0,1
+3,2001,France,Meningococcal infection,30,Bajo,0,1
+4,2001,France,Viral hepatitis,471,Bajo,0,1
+5,2001,France,Human immunodeficiency virus [HIV] disease,892,Bajo,0,1
+6,2001,France,Neoplasms,91737,Bajo,0,1
+7,2001,France,Malignant neoplasms (C00-C97),88481,Bajo,0,1
+8,2001,France,"Malignant neoplasm of lip, oral cavity, pharynx",3755,Bajo,0,1
+9,2001,France,Malignant neoplasm of oesophagus,3442,Bajo,0,1
+10,2001,France,Malignant neoplasm of stomach,3213,Bajo,0,1
+11,2001,France,Malignant neoplasm of colon,6274,Bajo,0,1
+12,2001,France,"Malignant neoplasm of rectosigmoid junction, rectum, anus and anal canal",2242,Bajo,0,1
+13,2001,France,Malignant neoplasm of liver and intrahepatic bile ducts,5258,Bajo,0,1
+14,2001,France,Malignant neoplasm of pancreas,3788,Bajo,0,1
+15,2001,France,"Malignant neoplasm of larynx,  trachea, bronchus and lung",22457,Bajo,0,1
+16,2001,France,Malignant melanoma of skin,761,Bajo,0,1
+17,2001,France,Malignant neoplasm of breast,177,Bajo,0,1
+18,2001,France,Malignant neoplasm of cervix uteri,12544,Bajo,0,1
+19,2001,France,Malignant neoplasm of other parts of uterus,12544,Bajo,0,1
+20,2001,France,Malignant neoplasm of ovary,12544,Bajo,0,1
+21,2001,France,Malignant neoplasm of prostate,9327,Bajo,0,1
+22,2001,France,"Malignant neoplasm of kidney, except renal pelvis",1937,Bajo,0,1
+23,2001,France,Malignant neoplasm of bladder,3231,Bajo,0,1
+24,2001,France,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",6863,Bajo,0,1
+25,2001,France,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,1000,Bajo,0,1
+26,2001,France,"Endocrine, nutritional and metabolic diseases (E00-E90)",8356,Bajo,0,1
+27,2001,France,Diabetes mellitus,5318,Bajo,0,1
+28,2001,France,Mental and behavioural disorders (F00-F99),7468,Bajo,0,1
+29,2001,France,Mental and behavioural disorders due to use of alcohol,2523,Bajo,0,1
+30,2001,France,"Drug dependence, toxicomania (F11-F16, F18-F19)",127,Bajo,0,1
+31,2001,France,Diseases of the nervous system and the sense organs (G00-H95),9497,Bajo,0,1
+32,2001,France,Meningitis,80,Bajo,0,1
+33,2001,France,Diseases of the circulatory system (I00-I99),75350,Bajo,0,1
+34,2001,France,Ischaemic heart diseases,24913,Bajo,0,1
+35,2001,France,"Other heart diseases (I30-I33, I39-I52)",19513,Bajo,0,1
+36,2001,France,Cerebrovascular diseases,16223,Bajo,0,1
+37,2001,France,Diseases of the respiratory system (J00-J99),17292,Bajo,0,1
+38,2001,France,Influenza,76,Bajo,0,1
+39,2001,France,Pneumonia,4947,Bajo,0,1
+40,2001,France,Chronic lower respiratory diseases,5566,Bajo,0,1
+41,2001,France,Asthma and status asthmaticus,647,Bajo,0,1
+42,2001,France,Diseases of the digestive system (K00-K93),13226,Bajo,0,1
+43,2001,France,"Ulcer of stomach, duodenum and jejunum",486,Bajo,0,1
+44,2001,France,Chronic liver disease,6174,Bajo,0,1
+45,2001,France,Diseases of the skin and subcutaneous tissue (L00-L99),628,Bajo,0,1
+46,2001,France,Diseases of the musculoskeletal system and connective tissue (M00-M99),1387,Bajo,0,1
+47,2001,France,"Rheumatoid arthritis and arthrosis (M05-M06,M15-M19)",164,Bajo,0,1
+48,2001,France,Diseases of the genitourinary system  (N00-N99),3698,Bajo,0,1
+49,2001,France,Diseases of kidney and ureter,2809,Bajo,0,1
+50,2001,France,"Pregnancy, childbirth and the puerperium (O00-O99)",12544,Bajo,0,1
+51,2001,France,Certain conditions originating in the perinatal period (P00-P96),1006,Bajo,0,1
+52,2001,France,"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",892,Bajo,0,1
+53,2001,France,Congenital malformations of the nervous system,88,Bajo,0,1
+54,2001,France,Congenital malformations of the circulatory system,329,Bajo,0,1
+55,2001,France,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified (R00-R99)",15872,Bajo,0,1
+56,2001,France,Sudden infant death syndrome,229,Bajo,0,1
+57,2001,France,Ill-defined and unknown causes of mortality,7726,Bajo,0,1
+58,2001,France,External causes of morbidity and mortality (V01-Y89),25102,Bajo,0,1
+59,2001,France,Accidents,15867,Bajo,0,1
+60,2001,France,Transport accidents (V01-V99),5840,Bajo,0,1
+61,2001,France,Falls,2546,Bajo,0,1
+62,2001,France,Accidental poisoning by and exposure to noxious substances,459,Bajo,0,1
+63,2001,France,Intentional self-harm,7798,Bajo,0,1
+64,2001,France,Assault,324,Bajo,0,1
+65,2001,France,Event of undetermined intent,553,Bajo,0,1
+66,2001,France,All causes of death (A00-Y89) excluding S00-T98,263325,Alto,1,0
+67,2001,France,Certain infectious and parasitic diseases (A00-B99),5157,Bajo,1,0
+68,2001,France,Tuberculosis,516,Bajo,1,0
+69,2001,France,Meningococcal infection,15,Bajo,1,0
+70,2001,France,Viral hepatitis,439,Bajo,1,0
+71,2001,France,Human immunodeficiency virus [HIV] disease,248,Bajo,1,0
+72,2001,France,Neoplasms,61421,Bajo,1,0
+73,2001,France,Malignant neoplasms (C00-C97),58262,Bajo,1,0
+74,2001,France,"Malignant neoplasm of lip, oral cavity, pharynx",738,Bajo,1,0
+75,2001,France,Malignant neoplasm of oesophagus,699,Bajo,1,0
+76,2001,France,Malignant neoplasm of stomach,2020,Bajo,1,0
+77,2001,France,Malignant neoplasm of colon,5786,Bajo,1,0
+78,2001,France,"Malignant neoplasm of rectosigmoid junction, rectum, anus and anal canal",1780,Bajo,1,0
+79,2001,France,Malignant neoplasm of liver and intrahepatic bile ducts,1705,Bajo,1,0
+80,2001,France,Malignant neoplasm of pancreas,3554,Bajo,1,0
+81,2001,France,"Malignant neoplasm of larynx,  trachea, bronchus and lung",4624,Bajo,1,0
+82,2001,France,Malignant melanoma of skin,631,Bajo,1,0
+83,2001,France,Malignant neoplasm of breast,11088,Bajo,1,0
+84,2001,France,Malignant neoplasm of cervix uteri,793,Bajo,1,0
+85,2001,France,Malignant neoplasm of other parts of uterus,2192,Bajo,1,0
+86,2001,France,Malignant neoplasm of ovary,3260,Bajo,1,0
+87,2001,France,Malignant neoplasm of prostate,12544,Bajo,1,0
+88,2001,France,"Malignant neoplasm of kidney, except renal pelvis",1125,Bajo,1,0
+89,2001,France,Malignant neoplasm of bladder,1029,Bajo,1,0
+90,2001,France,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",5976,Bajo,1,0
+91,2001,France,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,1292,Bajo,1,0
+92,2001,France,"Endocrine, nutritional and metabolic diseases (E00-E90)",11668,Bajo,1,0
+93,2001,France,Diabetes mellitus,6223,Bajo,1,0
+94,2001,France,Mental and behavioural disorders (F00-F99),10527,Bajo,1,0
+95,2001,France,Mental and behavioural disorders due to use of alcohol,589,Bajo,1,0
+96,2001,France,"Drug dependence, toxicomania (F11-F16, F18-F19)",36,Bajo,1,0
+97,2001,France,Diseases of the nervous system and the sense organs (G00-H95),12230,Bajo,1,0
+98,2001,France,Meningitis,81,Bajo,1,0
+99,2001,France,Diseases of the circulatory system (I00-I99),87725,Bajo,1,0
+100,2001,France,Ischaemic heart diseases,20125,Bajo,1,0
+101,2001,France,"Other heart diseases (I30-I33, I39-I52)",26190,Bajo,1,0
+102,2001,France,Cerebrovascular diseases,22599,Bajo,1,0
+103,2001,France,Diseases of the respiratory system (J00-J99),15332,Bajo,1,0
+104,2001,France,Influenza,100,Bajo,1,0
+105,2001,France,Pneumonia,5773,Bajo,1,0
+106,2001,France,Chronic lower respiratory diseases,3291,Bajo,1,0
+107,2001,France,Asthma and status asthmaticus,871,Bajo,1,0
+108,2001,France,Diseases of the digestive system (K00-K93),11428,Bajo,1,0
+109,2001,France,"Ulcer of stomach, duodenum and jejunum",517,Bajo,1,0
+110,2001,France,Chronic liver disease,2602,Bajo,1,0
+111,2001,France,Diseases of the skin and subcutaneous tissue (L00-L99),1587,Bajo,1,0
+112,2001,France,Diseases of the musculoskeletal system and connective tissue (M00-M99),2518,Bajo,1,0
+113,2001,France,"Rheumatoid arthritis and arthrosis (M05-M06,M15-M19)",575,Bajo,1,0
+114,2001,France,Diseases of the genitourinary system  (N00-N99),3994,Bajo,1,0
+115,2001,France,Diseases of kidney and ureter,3056,Bajo,1,0
+116,2001,France,"Pregnancy, childbirth and the puerperium (O00-O99)",61,Bajo,1,0
+117,2001,France,Certain conditions originating in the perinatal period (P00-P96),748,Bajo,1,0
+118,2001,France,"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",798,Bajo,1,0
+119,2001,France,Congenital malformations of the nervous system,92,Bajo,1,0
+120,2001,France,Congenital malformations of the circulatory system,312,Bajo,1,0
+121,2001,France,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified (R00-R99)",19862,Bajo,1,0
+122,2001,France,Sudden infant death syndrome,123,Bajo,1,0
+123,2001,France,Ill-defined and unknown causes of mortality,6249,Bajo,1,0
+124,2001,France,External causes of morbidity and mortality (V01-Y89),16977,Bajo,1,0
+125,2001,France,Accidents,13165,Bajo,1,0
+126,2001,France,Transport accidents (V01-V99),2125,Bajo,1,0
+127,2001,France,Falls,2791,Bajo,1,0
+128,2001,France,Accidental poisoning by and exposure to noxious substances,496,Bajo,1,0
+129,2001,France,Intentional self-harm,2827,Bajo,1,0
+130,2001,France,Assault,210,Bajo,1,0
+131,2001,France,Event of undetermined intent,202,Bajo,1,0
+132,2002,France,All causes of death (A00-Y89) excluding S00-T98,278794,Alto,0,1
+133,2002,France,Certain infectious and parasitic diseases (A00-B99),5468,Bajo,0,1
+134,2002,France,Tuberculosis,507,Bajo,0,1
+135,2002,France,Meningococcal infection,21,Bajo,0,1
+136,2002,France,Viral hepatitis,472,Bajo,0,1
+137,2002,France,Human immunodeficiency virus [HIV] disease,835,Bajo,0,1
+138,2002,France,Neoplasms,92331,Bajo,0,1
+139,2002,France,Malignant neoplasms (C00-C97),89122,Bajo,0,1
+140,2002,France,"Malignant neoplasm of lip, oral cavity, pharynx",3834,Bajo,0,1
+141,2002,France,Malignant neoplasm of oesophagus,3509,Bajo,0,1
+142,2002,France,Malignant neoplasm of stomach,3256,Bajo,0,1
+143,2002,France,Malignant neoplasm of colon,6267,Bajo,0,1
+144,2002,France,"Malignant neoplasm of rectosigmoid junction, rectum, anus and anal canal",2365,Bajo,0,1
+145,2002,France,Malignant neoplasm of liver and intrahepatic bile ducts,5231,Bajo,0,1
+146,2002,France,Malignant neoplasm of pancreas,3875,Bajo,0,1
+147,2002,France,"Malignant neoplasm of larynx,  trachea, bronchus and lung",22533,Bajo,0,1
+148,2002,France,Malignant melanoma of skin,733,Bajo,0,1
+149,2002,France,Malignant neoplasm of breast,188,Bajo,0,1
+150,2002,France,Malignant neoplasm of cervix uteri,12544,Bajo,0,1
+151,2002,France,Malignant neoplasm of other parts of uterus,12544,Bajo,0,1
+152,2002,France,Malignant neoplasm of ovary,12544,Bajo,0,1
+153,2002,France,Malignant neoplasm of prostate,9526,Bajo,0,1
+154,2002,France,"Malignant neoplasm of kidney, except renal pelvis",1929,Bajo,0,1
+155,2002,France,Malignant neoplasm of bladder,3306,Bajo,0,1
+156,2002,France,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",6703,Bajo,0,1
+157,2002,France,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,1023,Bajo,0,1
+158,2002,France,"Endocrine, nutritional and metabolic diseases (E00-E90)",8366,Bajo,0,1
+159,2002,France,Diabetes mellitus,5195,Bajo,0,1
+160,2002,France,Mental and behavioural disorders (F00-F99),7476,Bajo,0,1
+161,2002,France,Mental and behavioural disorders due to use of alcohol,2559,Bajo,0,1
+162,2002,France,"Drug dependence, toxicomania (F11-F16, F18-F19)",121,Bajo,0,1
+163,2002,France,Diseases of the nervous system and the sense organs (G00-H95),9773,Bajo,0,1
+164,2002,France,Meningitis,96,Bajo,0,1
+165,2002,France,Diseases of the circulatory system (I00-I99),74756,Bajo,0,1
+166,2002,France,Ischaemic heart diseases,24569,Bajo,0,1
+167,2002,France,"Other heart diseases (I30-I33, I39-I52)",19657,Bajo,0,1
+168,2002,France,Cerebrovascular diseases,15948,Bajo,0,1
+169,2002,France,Diseases of the respiratory system (J00-J99),17849,Bajo,0,1
+170,2002,France,Influenza,219,Bajo,0,1
+171,2002,France,Pneumonia,5214,Bajo,0,1
+172,2002,France,Chronic lower respiratory diseases,5656,Bajo,0,1
+173,2002,France,Asthma and status asthmaticus,559,Bajo,0,1
+174,2002,France,Diseases of the digestive system (K00-K93),13000,Bajo,0,1
+175,2002,France,"Ulcer of stomach, duodenum and jejunum",493,Bajo,0,1
+176,2002,France,Chronic liver disease,6037,Bajo,0,1
+177,2002,France,Diseases of the skin and subcutaneous tissue (L00-L99),634,Bajo,0,1
+178,2002,France,Diseases of the musculoskeletal system and connective tissue (M00-M99),1315,Bajo,0,1
+179,2002,France,"Rheumatoid arthritis and arthrosis (M05-M06,M15-M19)",150,Bajo,0,1
+180,2002,France,Diseases of the genitourinary system  (N00-N99),3984,Bajo,0,1
+181,2002,France,Diseases of kidney and ureter,3099,Bajo,0,1
+182,2002,France,"Pregnancy, childbirth and the puerperium (O00-O99)",12544,Bajo,0,1
+183,2002,France,Certain conditions originating in the perinatal period (P00-P96),947,Bajo,0,1
+184,2002,France,"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",777,Bajo,0,1
+185,2002,France,Congenital malformations of the nervous system,65,Bajo,0,1
+186,2002,France,Congenital malformations of the circulatory system,321,Bajo,0,1
+187,2002,France,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified (R00-R99)",16071,Bajo,0,1
+188,2002,France,Sudden infant death syndrome,183,Bajo,0,1
+189,2002,France,Ill-defined and unknown causes of mortality,7475,Bajo,0,1
+190,2002,France,External causes of morbidity and mortality (V01-Y89),25024,Bajo,0,1
+191,2002,France,Accidents,15515,Bajo,0,1
+192,2002,France,Transport accidents (V01-V99),5672,Bajo,0,1
+193,2002,France,Falls,2673,Bajo,0,1
+194,2002,France,Accidental poisoning by and exposure to noxious substances,405,Bajo,0,1
+195,2002,France,Intentional self-harm,7865,Bajo,0,1
+196,2002,France,Assault,325,Bajo,0,1
+197,2002,France,Event of undetermined intent,594,Bajo,0,1
+198,2002,France,All causes of death (A00-Y89) excluding S00-T98,266555,Alto,1,0
+199,2002,France,Certain infectious and parasitic diseases (A00-B99),5194,Bajo,1,0
+200,2002,France,Tuberculosis,462,Bajo,1,0
+201,2002,France,Meningococcal infection,15,Bajo,1,0
+202,2002,France,Viral hepatitis,405,Bajo,1,0
+203,2002,France,Human immunodeficiency virus [HIV] disease,257,Bajo,1,0
+204,2002,France,Neoplasms,62599,Bajo,1,0
+205,2002,France,Malignant neoplasms (C00-C97),59385,Bajo,1,0
+206,2002,France,"Malignant neoplasm of lip, oral cavity, pharynx",796,Bajo,1,0
+207,2002,France,Malignant neoplasm of oesophagus,759,Bajo,1,0
+208,2002,France,Malignant neoplasm of stomach,2031,Bajo,1,0
+209,2002,France,Malignant neoplasm of colon,5867,Bajo,1,0
+210,2002,France,"Malignant neoplasm of rectosigmoid junction, rectum, anus and anal canal",1792,Bajo,1,0
+211,2002,France,Malignant neoplasm of liver and intrahepatic bile ducts,1788,Bajo,1,0
+212,2002,France,Malignant neoplasm of pancreas,3659,Bajo,1,0
+213,2002,France,"Malignant neoplasm of larynx,  trachea, bronchus and lung",5091,Bajo,1,0
+214,2002,France,Malignant melanoma of skin,666,Bajo,1,0
+215,2002,France,Malignant neoplasm of breast,11301,Bajo,1,0
+216,2002,France,Malignant neoplasm of cervix uteri,727,Bajo,1,0
+217,2002,France,Malignant neoplasm of other parts of uterus,2214,Bajo,1,0
+218,2002,France,Malignant neoplasm of ovary,3334,Bajo,1,0
+219,2002,France,Malignant neoplasm of prostate,12544,Bajo,1,0
+220,2002,France,"Malignant neoplasm of kidney, except renal pelvis",1143,Bajo,1,0
+221,2002,France,Malignant neoplasm of bladder,1019,Bajo,1,0
+222,2002,France,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",6024,Bajo,1,0
+223,2002,France,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,1229,Bajo,1,0
+224,2002,France,"Endocrine, nutritional and metabolic diseases (E00-E90)",12047,Bajo,1,0
+225,2002,France,Diabetes mellitus,6517,Bajo,1,0
+226,2002,France,Mental and behavioural disorders (F00-F99),10733,Bajo,1,0
+227,2002,France,Mental and behavioural disorders due to use of alcohol,625,Bajo,1,0
+228,2002,France,"Drug dependence, toxicomania (F11-F16, F18-F19)",25,Bajo,1,0
+229,2002,France,Diseases of the nervous system and the sense organs (G00-H95),13225,Bajo,1,0
+230,2002,France,Meningitis,92,Bajo,1,0
+231,2002,France,Diseases of the circulatory system (I00-I99),86365,Bajo,1,0
+232,2002,France,Ischaemic heart diseases,19549,Bajo,1,0
+233,2002,France,"Other heart diseases (I30-I33, I39-I52)",26604,Bajo,1,0
+234,2002,France,Cerebrovascular diseases,21835,Bajo,1,0
+235,2002,France,Diseases of the respiratory system (J00-J99),16378,Bajo,1,0
+236,2002,France,Influenza,337,Bajo,1,0
+237,2002,France,Pneumonia,6097,Bajo,1,0
+238,2002,France,Chronic lower respiratory diseases,3390,Bajo,1,0
+239,2002,France,Asthma and status asthmaticus,872,Bajo,1,0
+240,2002,France,Diseases of the digestive system (K00-K93),11529,Bajo,1,0
+241,2002,France,"Ulcer of stomach, duodenum and jejunum",446,Bajo,1,0
+242,2002,France,Chronic liver disease,2600,Bajo,1,0
+243,2002,France,Diseases of the skin and subcutaneous tissue (L00-L99),1585,Bajo,1,0
+244,2002,France,Diseases of the musculoskeletal system and connective tissue (M00-M99),2630,Bajo,1,0
+245,2002,France,"Rheumatoid arthritis and arthrosis (M05-M06,M15-M19)",583,Bajo,1,0
+246,2002,France,Diseases of the genitourinary system  (N00-N99),4191,Bajo,1,0
+247,2002,France,Diseases of kidney and ureter,3251,Bajo,1,0
+248,2002,France,"Pregnancy, childbirth and the puerperium (O00-O99)",81,Bajo,1,0
+249,2002,France,Certain conditions originating in the perinatal period (P00-P96),698,Bajo,1,0
+250,2002,France,"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",703,Bajo,1,0
+251,2002,France,Congenital malformations of the nervous system,54,Bajo,1,0
+252,2002,France,Congenital malformations of the circulatory system,286,Bajo,1,0
+253,2002,France,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified (R00-R99)",20475,Bajo,1,0
+254,2002,France,Sudden infant death syndrome,115,Bajo,1,0
+255,2002,France,Ill-defined and unknown causes of mortality,5982,Bajo,1,0
+256,2002,France,External causes of morbidity and mortality (V01-Y89),16893,Bajo,1,0
+257,2002,France,Accidents,12693,Bajo,1,0
+258,2002,France,Transport accidents (V01-V99),1930,Bajo,1,0
+259,2002,France,Falls,2790,Bajo,1,0
+260,2002,France,Accidental poisoning by and exposure to noxious substances,458,Bajo,1,0
+261,2002,France,Intentional self-harm,2945,Bajo,1,0
+262,2002,France,Assault,211,Bajo,1,0
+263,2002,France,Event of undetermined intent,232,Bajo,1,0
+264,2003,France,All causes of death (A00-Y89) excluding S00-T98,284729,Alto,0,1
+265,2003,France,Certain infectious and parasitic diseases (A00-B99),5616,Bajo,0,1
+266,2003,France,Tuberculosis,518,Bajo,0,1
+267,2003,France,Meningococcal infection,26,Bajo,0,1
+268,2003,France,Viral hepatitis,406,Bajo,0,1
+269,2003,France,Human immunodeficiency virus [HIV] disease,794,Bajo,0,1
+270,2003,France,Neoplasms,92631,Bajo,0,1
+271,2003,France,Malignant neoplasms (C00-C97),89397,Bajo,0,1
+272,2003,France,"Malignant neoplasm of lip, oral cavity, pharynx",3635,Bajo,0,1
+273,2003,France,Malignant neoplasm of oesophagus,3401,Bajo,0,1
+274,2003,France,Malignant neoplasm of stomach,3174,Bajo,0,1
+275,2003,France,Malignant neoplasm of colon,6314,Bajo,0,1
+276,2003,France,"Malignant neoplasm of rectosigmoid junction, rectum, anus and anal canal",2325,Bajo,0,1
+277,2003,France,Malignant neoplasm of liver and intrahepatic bile ducts,5321,Bajo,0,1
+278,2003,France,Malignant neoplasm of pancreas,3946,Bajo,0,1
+279,2003,France,"Malignant neoplasm of larynx,  trachea, bronchus and lung",22700,Bajo,0,1
+280,2003,France,Malignant melanoma of skin,764,Bajo,0,1
+281,2003,France,Malignant neoplasm of breast,188,Bajo,0,1
+282,2003,France,Malignant neoplasm of cervix uteri,12544,Bajo,0,1
+283,2003,France,Malignant neoplasm of other parts of uterus,12544,Bajo,0,1
+284,2003,France,Malignant neoplasm of ovary,12544,Bajo,0,1
+285,2003,France,Malignant neoplasm of prostate,9695,Bajo,0,1
+286,2003,France,"Malignant neoplasm of kidney, except renal pelvis",2001,Bajo,0,1
+287,2003,France,Malignant neoplasm of bladder,3490,Bajo,0,1
+288,2003,France,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",6797,Bajo,0,1
+289,2003,France,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,976,Bajo,0,1
+290,2003,France,"Endocrine, nutritional and metabolic diseases (E00-E90)",9403,Bajo,0,1
+291,2003,France,Diabetes mellitus,5611,Bajo,0,1
+292,2003,France,Mental and behavioural disorders (F00-F99),7841,Bajo,0,1
+293,2003,France,Mental and behavioural disorders due to use of alcohol,2552,Bajo,0,1
+294,2003,France,"Drug dependence, toxicomania (F11-F16, F18-F19)",120,Bajo,0,1
+295,2003,France,Diseases of the nervous system and the sense organs (G00-H95),10897,Bajo,0,1
+296,2003,France,Meningitis,82,Bajo,0,1
+297,2003,France,Diseases of the circulatory system (I00-I99),75040,Bajo,0,1
+298,2003,France,Ischaemic heart diseases,24213,Bajo,0,1
+299,2003,France,"Other heart diseases (I30-I33, I39-I52)",20036,Bajo,0,1
+300,2003,France,Cerebrovascular diseases,16120,Bajo,0,1
+301,2003,France,Diseases of the respiratory system (J00-J99),18939,Bajo,0,1
+302,2003,France,Influenza,192,Bajo,0,1
+303,2003,France,Pneumonia,5514,Bajo,0,1
+304,2003,France,Chronic lower respiratory diseases,6108,Bajo,0,1
+305,2003,France,Asthma and status asthmaticus,516,Bajo,0,1
+306,2003,France,Diseases of the digestive system (K00-K93),13453,Bajo,0,1
+307,2003,France,"Ulcer of stomach, duodenum and jejunum",501,Bajo,0,1
+308,2003,France,Chronic liver disease,6122,Bajo,0,1
+309,2003,France,Diseases of the skin and subcutaneous tissue (L00-L99),613,Bajo,0,1
+310,2003,France,Diseases of the musculoskeletal system and connective tissue (M00-M99),1288,Bajo,0,1
+311,2003,France,"Rheumatoid arthritis and arthrosis (M05-M06,M15-M19)",155,Bajo,0,1
+312,2003,France,Diseases of the genitourinary system  (N00-N99),4121,Bajo,0,1
+313,2003,France,Diseases of kidney and ureter,3139,Bajo,0,1
+314,2003,France,"Pregnancy, childbirth and the puerperium (O00-O99)",12544,Bajo,0,1
+315,2003,France,Certain conditions originating in the perinatal period (P00-P96),910,Bajo,0,1
+316,2003,France,"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",858,Bajo,0,1
+317,2003,France,Congenital malformations of the nervous system,77,Bajo,0,1
+318,2003,France,Congenital malformations of the circulatory system,341,Bajo,0,1
+319,2003,France,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified (R00-R99)",17010,Bajo,0,1
+320,2003,France,Sudden infant death syndrome,173,Bajo,0,1
+321,2003,France,Ill-defined and unknown causes of mortality,7523,Bajo,0,1
+322,2003,France,External causes of morbidity and mortality (V01-Y89),25133,Bajo,0,1
+323,2003,France,Accidents,15299,Bajo,0,1
+324,2003,France,Transport accidents (V01-V99),4811,Bajo,0,1
+325,2003,France,Falls,2788,Bajo,0,1
+326,2003,France,Accidental poisoning by and exposure to noxious substances,513,Bajo,0,1
+327,2003,France,Intentional self-harm,8187,Bajo,0,1
+328,2003,France,Assault,306,Bajo,0,1
+329,2003,France,Event of undetermined intent,506,Bajo,0,1
+330,2003,France,All causes of death (A00-Y89) excluding S00-T98,277858,Alto,1,0
+331,2003,France,Certain infectious and parasitic diseases (A00-B99),5781,Bajo,1,0
+332,2003,France,Tuberculosis,441,Bajo,1,0
+333,2003,France,Meningococcal infection,18,Bajo,1,0
+334,2003,France,Viral hepatitis,329,Bajo,1,0
+335,2003,France,Human immunodeficiency virus [HIV] disease,250,Bajo,1,0
+336,2003,France,Neoplasms,63145,Bajo,1,0
+337,2003,France,Malignant neoplasms (C00-C97),59885,Bajo,1,0
+338,2003,France,"Malignant neoplasm of lip, oral cavity, pharynx",707,Bajo,1,0
+339,2003,France,Malignant neoplasm of oesophagus,690,Bajo,1,0
+340,2003,France,Malignant neoplasm of stomach,1878,Bajo,1,0
+341,2003,France,Malignant neoplasm of colon,6082,Bajo,1,0
+342,2003,France,"Malignant neoplasm of rectosigmoid junction, rectum, anus and anal canal",1857,Bajo,1,0
+343,2003,France,Malignant neoplasm of liver and intrahepatic bile ducts,1856,Bajo,1,0
+344,2003,France,Malignant neoplasm of pancreas,3577,Bajo,1,0
+345,2003,France,"Malignant neoplasm of larynx,  trachea, bronchus and lung",5422,Bajo,1,0
+346,2003,France,Malignant melanoma of skin,684,Bajo,1,0
+347,2003,France,Malignant neoplasm of breast,11276,Bajo,1,0
+348,2003,France,Malignant neoplasm of cervix uteri,782,Bajo,1,0
+349,2003,France,Malignant neoplasm of other parts of uterus,2299,Bajo,1,0
+350,2003,France,Malignant neoplasm of ovary,3279,Bajo,1,0
+351,2003,France,Malignant neoplasm of prostate,12544,Bajo,1,0
+352,2003,France,"Malignant neoplasm of kidney, except renal pelvis",1158,Bajo,1,0
+353,2003,France,Malignant neoplasm of bladder,1091,Bajo,1,0
+354,2003,France,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",6075,Bajo,1,0
+355,2003,France,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,1360,Bajo,1,0
+356,2003,France,"Endocrine, nutritional and metabolic diseases (E00-E90)",14081,Bajo,1,0
+357,2003,France,Diabetes mellitus,6744,Bajo,1,0
+358,2003,France,Mental and behavioural disorders (F00-F99),11487,Bajo,1,0
+359,2003,France,Mental and behavioural disorders due to use of alcohol,656,Bajo,1,0
+360,2003,France,"Drug dependence, toxicomania (F11-F16, F18-F19)",31,Bajo,1,0
+361,2003,France,Diseases of the nervous system and the sense organs (G00-H95),15098,Bajo,1,0
+362,2003,France,Meningitis,67,Bajo,1,0
+363,2003,France,Diseases of the circulatory system (I00-I99),87738,Bajo,1,0
+364,2003,France,Ischaemic heart diseases,19741,Bajo,1,0
+365,2003,France,"Other heart diseases (I30-I33, I39-I52)",27084,Bajo,1,0
+366,2003,France,Cerebrovascular diseases,22116,Bajo,1,0
+367,2003,France,Diseases of the respiratory system (J00-J99),17572,Bajo,1,0
+368,2003,France,Influenza,283,Bajo,1,0
+369,2003,France,Pneumonia,6578,Bajo,1,0
+370,2003,France,Chronic lower respiratory diseases,3714,Bajo,1,0
+371,2003,France,Asthma and status asthmaticus,895,Bajo,1,0
+372,2003,France,Diseases of the digestive system (K00-K93),11556,Bajo,1,0
+373,2003,France,"Ulcer of stomach, duodenum and jejunum",481,Bajo,1,0
+374,2003,France,Chronic liver disease,2479,Bajo,1,0
+375,2003,France,Diseases of the skin and subcutaneous tissue (L00-L99),1680,Bajo,1,0
+376,2003,France,Diseases of the musculoskeletal system and connective tissue (M00-M99),2594,Bajo,1,0
+377,2003,France,"Rheumatoid arthritis and arthrosis (M05-M06,M15-M19)",555,Bajo,1,0
+378,2003,France,Diseases of the genitourinary system  (N00-N99),4437,Bajo,1,0
+379,2003,France,Diseases of kidney and ureter,3269,Bajo,1,0
+380,2003,France,"Pregnancy, childbirth and the puerperium (O00-O99)",66,Bajo,1,0
+381,2003,France,Certain conditions originating in the perinatal period (P00-P96),673,Bajo,1,0
+382,2003,France,"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",774,Bajo,1,0
+383,2003,France,Congenital malformations of the nervous system,82,Bajo,1,0
+384,2003,France,Congenital malformations of the circulatory system,287,Bajo,1,0
+385,2003,France,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified (R00-R99)",22274,Bajo,1,0
+386,2003,France,Sudden infant death syndrome,90,Bajo,1,0
+387,2003,France,Ill-defined and unknown causes of mortality,6174,Bajo,1,0
+388,2003,France,External causes of morbidity and mortality (V01-Y89),17542,Bajo,1,0
+389,2003,France,Accidents,13624,Bajo,1,0
+390,2003,France,Transport accidents (V01-V99),1538,Bajo,1,0
+391,2003,France,Falls,3149,Bajo,1,0
+392,2003,France,Accidental poisoning by and exposure to noxious substances,507,Bajo,1,0
+393,2003,France,Intentional self-harm,2864,Bajo,1,0
+394,2003,France,Assault,197,Bajo,1,0
+395,2003,France,Event of undetermined intent,121,Bajo,1,0
+396,2004,France,All causes of death (A00-Y89) excluding S00-T98,268653,Alto,0,1
+397,2004,France,Certain infectious and parasitic diseases (A00-B99),5067,Bajo,0,1
+398,2004,France,Tuberculosis,433,Bajo,0,1
+399,2004,France,Meningococcal infection,18,Bajo,0,1
+400,2004,France,Viral hepatitis,399,Bajo,0,1
+401,2004,France,Human immunodeficiency virus [HIV] disease,766,Bajo,0,1
+402,2004,France,Neoplasms,92071,Bajo,0,1
+403,2004,France,Malignant neoplasms (C00-C97),88852,Bajo,0,1
+404,2004,France,"Malignant neoplasm of lip, oral cavity, pharynx",3623,Bajo,0,1
+405,2004,France,Malignant neoplasm of oesophagus,3257,Bajo,0,1
+406,2004,France,Malignant neoplasm of stomach,3216,Bajo,0,1
+407,2004,France,Malignant neoplasm of colon,6541,Bajo,0,1
+408,2004,France,"Malignant neoplasm of rectosigmoid junction, rectum, anus and anal canal",2363,Bajo,0,1
+409,2004,France,Malignant neoplasm of liver and intrahepatic bile ducts,5345,Bajo,0,1
+410,2004,France,Malignant neoplasm of pancreas,4088,Bajo,0,1
+411,2004,France,"Malignant neoplasm of larynx,  trachea, bronchus and lung",22965,Bajo,0,1
+412,2004,France,Malignant melanoma of skin,775,Bajo,0,1
+413,2004,France,Malignant neoplasm of breast,206,Bajo,0,1
+414,2004,France,Malignant neoplasm of cervix uteri,12544,Bajo,0,1
+415,2004,France,Malignant neoplasm of other parts of uterus,12544,Bajo,0,1
+416,2004,France,Malignant neoplasm of ovary,12544,Bajo,0,1
+417,2004,France,Malignant neoplasm of prostate,9398,Bajo,0,1
+418,2004,France,"Malignant neoplasm of kidney, except renal pelvis",1960,Bajo,0,1
+419,2004,France,Malignant neoplasm of bladder,3460,Bajo,0,1
+420,2004,France,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",6625,Bajo,0,1
+421,2004,France,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,1003,Bajo,0,1
+422,2004,France,"Endocrine, nutritional and metabolic diseases (E00-E90)",8426,Bajo,0,1
+423,2004,France,Diabetes mellitus,5344,Bajo,0,1
+424,2004,France,Mental and behavioural disorders (F00-F99),6921,Bajo,0,1
+425,2004,France,Mental and behavioural disorders due to use of alcohol,2371,Bajo,0,1
+426,2004,France,"Drug dependence, toxicomania (F11-F16, F18-F19)",144,Bajo,0,1
+427,2004,France,Diseases of the nervous system and the sense organs (G00-H95),9980,Bajo,0,1
+428,2004,France,Meningitis,83,Bajo,0,1
+429,2004,France,Diseases of the circulatory system (I00-I99),70815,Bajo,0,1
+430,2004,France,Ischaemic heart diseases,23420,Bajo,0,1
+431,2004,France,"Other heart diseases (I30-I33, I39-I52)",18837,Bajo,0,1
+432,2004,France,Cerebrovascular diseases,14515,Bajo,0,1
+433,2004,France,Diseases of the respiratory system (J00-J99),16230,Bajo,0,1
+434,2004,France,Influenza,56,Bajo,0,1
+435,2004,France,Pneumonia,4506,Bajo,0,1
+436,2004,France,Chronic lower respiratory diseases,5446,Bajo,0,1
+437,2004,France,Asthma and status asthmaticus,410,Bajo,0,1
+438,2004,France,Diseases of the digestive system (K00-K93),12538,Bajo,0,1
+439,2004,France,"Ulcer of stomach, duodenum and jejunum",412,Bajo,0,1
+440,2004,France,Chronic liver disease,5601,Bajo,0,1
+441,2004,France,Diseases of the skin and subcutaneous tissue (L00-L99),555,Bajo,0,1
+442,2004,France,Diseases of the musculoskeletal system and connective tissue (M00-M99),1251,Bajo,0,1
+443,2004,France,"Rheumatoid arthritis and arthrosis (M05-M06,M15-M19)",152,Bajo,0,1
+444,2004,France,Diseases of the genitourinary system  (N00-N99),3973,Bajo,0,1
+445,2004,France,Diseases of kidney and ureter,3106,Bajo,0,1
+446,2004,France,"Pregnancy, childbirth and the puerperium (O00-O99)",12544,Bajo,0,1
+447,2004,France,Certain conditions originating in the perinatal period (P00-P96),889,Bajo,0,1
+448,2004,France,"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",831,Bajo,0,1
+449,2004,France,Congenital malformations of the nervous system,87,Bajo,0,1
+450,2004,France,Congenital malformations of the circulatory system,340,Bajo,0,1
+451,2004,France,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified (R00-R99)",14974,Bajo,0,1
+452,2004,France,Sudden infant death syndrome,160,Bajo,0,1
+453,2004,France,Ill-defined and unknown causes of mortality,6642,Bajo,0,1
+454,2004,France,External causes of morbidity and mortality (V01-Y89),23129,Bajo,0,1
+455,2004,France,Accidents,13599,Bajo,0,1
+456,2004,France,Transport accidents (V01-V99),4237,Bajo,0,1
+457,2004,France,Falls,2625,Bajo,0,1
+458,2004,France,Accidental poisoning by and exposure to noxious substances,467,Bajo,0,1
+459,2004,France,Intentional self-harm,8000,Bajo,0,1
+460,2004,France,Assault,311,Bajo,0,1
+461,2004,France,Event of undetermined intent,399,Bajo,0,1
+462,2004,France,All causes of death (A00-Y89) excluding S00-T98,250788,Alto,1,0
+463,2004,France,Certain infectious and parasitic diseases (A00-B99),4824,Bajo,1,0
+464,2004,France,Tuberculosis,404,Bajo,1,0
+465,2004,France,Meningococcal infection,18,Bajo,1,0
+466,2004,France,Viral hepatitis,342,Bajo,1,0
+467,2004,France,Human immunodeficiency virus [HIV] disease,252,Bajo,1,0
+468,2004,France,Neoplasms,62907,Bajo,1,0
+469,2004,France,Malignant neoplasms (C00-C97),59794,Bajo,1,0
+470,2004,France,"Malignant neoplasm of lip, oral cavity, pharynx",740,Bajo,1,0
+471,2004,France,Malignant neoplasm of oesophagus,697,Bajo,1,0
+472,2004,France,Malignant neoplasm of stomach,1894,Bajo,1,0
+473,2004,France,Malignant neoplasm of colon,5853,Bajo,1,0
+474,2004,France,"Malignant neoplasm of rectosigmoid junction, rectum, anus and anal canal",1879,Bajo,1,0
+475,2004,France,Malignant neoplasm of liver and intrahepatic bile ducts,1839,Bajo,1,0
+476,2004,France,Malignant neoplasm of pancreas,3773,Bajo,1,0
+477,2004,France,"Malignant neoplasm of larynx,  trachea, bronchus and lung",5677,Bajo,1,0
+478,2004,France,Malignant melanoma of skin,661,Bajo,1,0
+479,2004,France,Malignant neoplasm of breast,11333,Bajo,1,0
+480,2004,France,Malignant neoplasm of cervix uteri,768,Bajo,1,0
+481,2004,France,Malignant neoplasm of other parts of uterus,2254,Bajo,1,0
+482,2004,France,Malignant neoplasm of ovary,3272,Bajo,1,0
+483,2004,France,Malignant neoplasm of prostate,12544,Bajo,1,0
+484,2004,France,"Malignant neoplasm of kidney, except renal pelvis",1089,Bajo,1,0
+485,2004,France,Malignant neoplasm of bladder,1153,Bajo,1,0
+486,2004,France,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",5894,Bajo,1,0
+487,2004,France,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,1161,Bajo,1,0
+488,2004,France,"Endocrine, nutritional and metabolic diseases (E00-E90)",11101,Bajo,1,0
+489,2004,France,Diabetes mellitus,6053,Bajo,1,0
+490,2004,France,Mental and behavioural disorders (F00-F99),9372,Bajo,1,0
+491,2004,France,Mental and behavioural disorders due to use of alcohol,581,Bajo,1,0
+492,2004,France,"Drug dependence, toxicomania (F11-F16, F18-F19)",22,Bajo,1,0
+493,2004,France,Diseases of the nervous system and the sense organs (G00-H95),13853,Bajo,1,0
+494,2004,France,Meningitis,97,Bajo,1,0
+495,2004,France,Diseases of the circulatory system (I00-I99),79510,Bajo,1,0
+496,2004,France,Ischaemic heart diseases,17812,Bajo,1,0
+497,2004,France,"Other heart diseases (I30-I33, I39-I52)",24405,Bajo,1,0
+498,2004,France,Cerebrovascular diseases,20024,Bajo,1,0
+499,2004,France,Diseases of the respiratory system (J00-J99),14563,Bajo,1,0
+500,2004,France,Influenza,107,Bajo,1,0
+501,2004,France,Pneumonia,5176,Bajo,1,0
+502,2004,France,Chronic lower respiratory diseases,3286,Bajo,1,0
+503,2004,France,Asthma and status asthmaticus,753,Bajo,1,0
+504,2004,France,Diseases of the digestive system (K00-K93),10809,Bajo,1,0
+505,2004,France,"Ulcer of stomach, duodenum and jejunum",431,Bajo,1,0
+506,2004,France,Chronic liver disease,2327,Bajo,1,0
+507,2004,France,Diseases of the skin and subcutaneous tissue (L00-L99),1354,Bajo,1,0
+508,2004,France,Diseases of the musculoskeletal system and connective tissue (M00-M99),2279,Bajo,1,0
+509,2004,France,"Rheumatoid arthritis and arthrosis (M05-M06,M15-M19)",475,Bajo,1,0
+510,2004,France,Diseases of the genitourinary system  (N00-N99),4052,Bajo,1,0
+511,2004,France,Diseases of kidney and ureter,3194,Bajo,1,0
+512,2004,France,"Pregnancy, childbirth and the puerperium (O00-O99)",61,Bajo,1,0
+513,2004,France,Certain conditions originating in the perinatal period (P00-P96),676,Bajo,1,0
+514,2004,France,"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",745,Bajo,1,0
+515,2004,France,Congenital malformations of the nervous system,74,Bajo,1,0
+516,2004,France,Congenital malformations of the circulatory system,293,Bajo,1,0
+517,2004,France,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified (R00-R99)",18342,Bajo,1,0
+518,2004,France,Sudden infant death syndrome,106,Bajo,1,0
+519,2004,France,Ill-defined and unknown causes of mortality,5143,Bajo,1,0
+520,2004,France,External causes of morbidity and mortality (V01-Y89),15179,Bajo,1,0
+521,2004,France,Accidents,11078,Bajo,1,0
+522,2004,France,Transport accidents (V01-V99),1390,Bajo,1,0
+523,2004,France,Falls,2799,Bajo,1,0
+524,2004,France,Accidental poisoning by and exposure to noxious substances,466,Bajo,1,0
+525,2004,France,Intentional self-harm,2979,Bajo,1,0
+526,2004,France,Assault,213,Bajo,1,0
+527,2004,France,Event of undetermined intent,87,Bajo,1,0
+528,2005,France,All causes of death (A00-Y89) excluding S00-T98,276553,Alto,0,1
+529,2005,France,Certain infectious and parasitic diseases (A00-B99),5206,Bajo,0,1
+530,2005,France,Tuberculosis,443,Bajo,0,1
+531,2005,France,Meningococcal infection,12,Bajo,0,1
+532,2005,France,Viral hepatitis,430,Bajo,0,1
+533,2005,France,Human immunodeficiency virus [HIV] disease,685,Bajo,0,1
+534,2005,France,Neoplasms,93550,Bajo,0,1
+535,2005,France,Malignant neoplasms (C00-C97),90157,Bajo,0,1
+536,2005,France,"Malignant neoplasm of lip, oral cavity, pharynx",3442,Bajo,0,1
+537,2005,France,Malignant neoplasm of oesophagus,3323,Bajo,0,1
+538,2005,France,Malignant neoplasm of stomach,3177,Bajo,0,1
+539,2005,France,Malignant neoplasm of colon,6461,Bajo,0,1
+540,2005,France,"Malignant neoplasm of rectosigmoid junction, rectum, anus and anal canal",2395,Bajo,0,1
+541,2005,France,Malignant neoplasm of liver and intrahepatic bile ducts,5516,Bajo,0,1
+542,2005,France,Malignant neoplasm of pancreas,4235,Bajo,0,1
+543,2005,France,"Malignant neoplasm of larynx,  trachea, bronchus and lung",23467,Bajo,0,1
+544,2005,France,Malignant melanoma of skin,810,Bajo,0,1
+545,2005,France,Malignant neoplasm of breast,203,Bajo,0,1
+546,2005,France,Malignant neoplasm of cervix uteri,12544,Bajo,0,1
+547,2005,France,Malignant neoplasm of other parts of uterus,12544,Bajo,0,1
+548,2005,France,Malignant neoplasm of ovary,12544,Bajo,0,1
+549,2005,France,Malignant neoplasm of prostate,9393,Bajo,0,1
+550,2005,France,"Malignant neoplasm of kidney, except renal pelvis",1977,Bajo,0,1
+551,2005,France,Malignant neoplasm of bladder,3611,Bajo,0,1
+552,2005,France,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",6785,Bajo,0,1
+553,2005,France,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,983,Bajo,0,1
+554,2005,France,"Endocrine, nutritional and metabolic diseases (E00-E90)",8597,Bajo,0,1
+555,2005,France,Diabetes mellitus,5594,Bajo,0,1
+556,2005,France,Mental and behavioural disorders (F00-F99),7424,Bajo,0,1
+557,2005,France,Mental and behavioural disorders due to use of alcohol,2534,Bajo,0,1
+558,2005,France,"Drug dependence, toxicomania (F11-F16, F18-F19)",145,Bajo,0,1
+559,2005,France,Diseases of the nervous system and the sense organs (G00-H95),11207,Bajo,0,1
+560,2005,France,Meningitis,83,Bajo,0,1
+561,2005,France,Diseases of the circulatory system (I00-I99),71557,Bajo,0,1
+562,2005,France,Ischaemic heart diseases,23300,Bajo,0,1
+563,2005,France,"Other heart diseases (I30-I33, I39-I52)",19344,Bajo,0,1
+564,2005,France,Cerebrovascular diseases,14844,Bajo,0,1
+565,2005,France,Diseases of the respiratory system (J00-J99),18366,Bajo,0,1
+566,2005,France,Influenza,368,Bajo,0,1
+567,2005,France,Pneumonia,5225,Bajo,0,1
+568,2005,France,Chronic lower respiratory diseases,6026,Bajo,0,1
+569,2005,France,Asthma and status asthmaticus,433,Bajo,0,1
+570,2005,France,Diseases of the digestive system (K00-K93),12758,Bajo,0,1
+571,2005,France,"Ulcer of stomach, duodenum and jejunum",466,Bajo,0,1
+572,2005,France,Chronic liver disease,5579,Bajo,0,1
+573,2005,France,Diseases of the skin and subcutaneous tissue (L00-L99),535,Bajo,0,1
+574,2005,France,Diseases of the musculoskeletal system and connective tissue (M00-M99),1256,Bajo,0,1
+575,2005,France,"Rheumatoid arthritis and arthrosis (M05-M06,M15-M19)",149,Bajo,0,1
+576,2005,France,Diseases of the genitourinary system  (N00-N99),4184,Bajo,0,1
+577,2005,France,Diseases of kidney and ureter,3228,Bajo,0,1
+578,2005,France,"Pregnancy, childbirth and the puerperium (O00-O99)",12544,Bajo,0,1
+579,2005,France,Certain conditions originating in the perinatal period (P00-P96),867,Bajo,0,1
+580,2005,France,"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",828,Bajo,0,1
+581,2005,France,Congenital malformations of the nervous system,63,Bajo,0,1
+582,2005,France,Congenital malformations of the circulatory system,312,Bajo,0,1
+583,2005,France,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified (R00-R99)",15836,Bajo,0,1
+584,2005,France,Sudden infant death syndrome,165,Bajo,0,1
+585,2005,France,Ill-defined and unknown causes of mortality,7084,Bajo,0,1
+586,2005,France,External causes of morbidity and mortality (V01-Y89),23399,Bajo,0,1
+587,2005,France,Accidents,13944,Bajo,0,1
+588,2005,France,Transport accidents (V01-V99),4204,Bajo,0,1
+589,2005,France,Falls,2635,Bajo,0,1
+590,2005,France,Accidental poisoning by and exposure to noxious substances,571,Bajo,0,1
+591,2005,France,Intentional self-harm,7958,Bajo,0,1
+592,2005,France,Assault,326,Bajo,0,1
+593,2005,France,Event of undetermined intent,376,Bajo,0,1
+594,2005,France,All causes of death (A00-Y89) excluding S00-T98,261633,Alto,1,0
+595,2005,France,Certain infectious and parasitic diseases (A00-B99),5063,Bajo,1,0
+596,2005,France,Tuberculosis,418,Bajo,1,0
+597,2005,France,Meningococcal infection,19,Bajo,1,0
+598,2005,France,Viral hepatitis,355,Bajo,1,0
+599,2005,France,Human immunodeficiency virus [HIV] disease,232,Bajo,1,0
+600,2005,France,Neoplasms,64281,Bajo,1,0
+601,2005,France,Malignant neoplasms (C00-C97),61027,Bajo,1,0
+602,2005,France,"Malignant neoplasm of lip, oral cavity, pharynx",754,Bajo,1,0
+603,2005,France,Malignant neoplasm of oesophagus,674,Bajo,1,0
+604,2005,France,Malignant neoplasm of stomach,1867,Bajo,1,0
+605,2005,France,Malignant neoplasm of colon,5990,Bajo,1,0
+606,2005,France,"Malignant neoplasm of rectosigmoid junction, rectum, anus and anal canal",1968,Bajo,1,0
+607,2005,France,Malignant neoplasm of liver and intrahepatic bile ducts,1922,Bajo,1,0
+608,2005,France,Malignant neoplasm of pancreas,3907,Bajo,1,0
+609,2005,France,"Malignant neoplasm of larynx,  trachea, bronchus and lung",6127,Bajo,1,0
+610,2005,France,Malignant melanoma of skin,716,Bajo,1,0
+611,2005,France,Malignant neoplasm of breast,11466,Bajo,1,0
+612,2005,France,Malignant neoplasm of cervix uteri,761,Bajo,1,0
+613,2005,France,Malignant neoplasm of other parts of uterus,2288,Bajo,1,0
+614,2005,France,Malignant neoplasm of ovary,3349,Bajo,1,0
+615,2005,France,Malignant neoplasm of prostate,12544,Bajo,1,0
+616,2005,France,"Malignant neoplasm of kidney, except renal pelvis",1156,Bajo,1,0
+617,2005,France,Malignant neoplasm of bladder,1139,Bajo,1,0
+618,2005,France,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",6018,Bajo,1,0
+619,2005,France,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,1231,Bajo,1,0
+620,2005,France,"Endocrine, nutritional and metabolic diseases (E00-E90)",11367,Bajo,1,0
+621,2005,France,Diabetes mellitus,6210,Bajo,1,0
+622,2005,France,Mental and behavioural disorders (F00-F99),9949,Bajo,1,0
+623,2005,France,Mental and behavioural disorders due to use of alcohol,639,Bajo,1,0
+624,2005,France,"Drug dependence, toxicomania (F11-F16, F18-F19)",30,Bajo,1,0
+625,2005,France,Diseases of the nervous system and the sense organs (G00-H95),15615,Bajo,1,0
+626,2005,France,Meningitis,79,Bajo,1,0
+627,2005,France,Diseases of the circulatory system (I00-I99),81322,Bajo,1,0
+628,2005,France,Ischaemic heart diseases,17842,Bajo,1,0
+629,2005,France,"Other heart diseases (I30-I33, I39-I52)",25664,Bajo,1,0
+630,2005,France,Cerebrovascular diseases,20076,Bajo,1,0
+631,2005,France,Diseases of the respiratory system (J00-J99),17268,Bajo,1,0
+632,2005,France,Influenza,643,Bajo,1,0
+633,2005,France,Pneumonia,6132,Bajo,1,0
+634,2005,France,Chronic lower respiratory diseases,3676,Bajo,1,0
+635,2005,France,Asthma and status asthmaticus,758,Bajo,1,0
+636,2005,France,Diseases of the digestive system (K00-K93),10950,Bajo,1,0
+637,2005,France,"Ulcer of stomach, duodenum and jejunum",423,Bajo,1,0
+638,2005,France,Chronic liver disease,2340,Bajo,1,0
+639,2005,France,Diseases of the skin and subcutaneous tissue (L00-L99),1256,Bajo,1,0
+640,2005,France,Diseases of the musculoskeletal system and connective tissue (M00-M99),2370,Bajo,1,0
+641,2005,France,"Rheumatoid arthritis and arthrosis (M05-M06,M15-M19)",510,Bajo,1,0
+642,2005,France,Diseases of the genitourinary system  (N00-N99),4386,Bajo,1,0
+643,2005,France,Diseases of kidney and ureter,3411,Bajo,1,0
+644,2005,France,"Pregnancy, childbirth and the puerperium (O00-O99)",47,Bajo,1,0
+645,2005,France,Certain conditions originating in the perinatal period (P00-P96),661,Bajo,1,0
+646,2005,France,"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",717,Bajo,1,0
+647,2005,France,Congenital malformations of the nervous system,59,Bajo,1,0
+648,2005,France,Congenital malformations of the circulatory system,268,Bajo,1,0
+649,2005,France,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified (R00-R99)",19781,Bajo,1,0
+650,2005,France,Sudden infant death syndrome,94,Bajo,1,0
+651,2005,France,Ill-defined and unknown causes of mortality,5884,Bajo,1,0
+652,2005,France,External causes of morbidity and mortality (V01-Y89),15369,Bajo,1,0
+653,2005,France,Accidents,11370,Bajo,1,0
+654,2005,France,Transport accidents (V01-V99),1404,Bajo,1,0
+655,2005,France,Falls,2775,Bajo,1,0
+656,2005,France,Accidental poisoning by and exposure to noxious substances,464,Bajo,1,0
+657,2005,France,Intentional self-harm,2937,Bajo,1,0
+658,2005,France,Assault,168,Bajo,1,0
+659,2005,France,Event of undetermined intent,67,Bajo,1,0
+660,2006,France,All causes of death (A00-Y89) excluding S00-T98,271406,Alto,0,1
+661,2006,France,Certain infectious and parasitic diseases (A00-B99),5331,Bajo,0,1
+662,2006,France,Tuberculosis,402,Bajo,0,1
+663,2006,France,Meningococcal infection,14,Bajo,0,1
+664,2006,France,Viral hepatitis,407,Bajo,0,1
+665,2006,France,Human immunodeficiency virus [HIV] disease,668,Bajo,0,1
+666,2006,France,Neoplasms,93207,Bajo,0,1
+667,2006,France,Malignant neoplasms (C00-C97),89915,Bajo,0,1
+668,2006,France,"Malignant neoplasm of lip, oral cavity, pharynx",3473,Bajo,0,1
+669,2006,France,Malignant neoplasm of oesophagus,3193,Bajo,0,1
+670,2006,France,Malignant neoplasm of stomach,3166,Bajo,0,1
+671,2006,France,Malignant neoplasm of colon,6379,Bajo,0,1
+672,2006,France,"Malignant neoplasm of rectosigmoid junction, rectum, anus and anal canal",2422,Bajo,0,1
+673,2006,France,Malignant neoplasm of liver and intrahepatic bile ducts,5578,Bajo,0,1
+674,2006,France,Malignant neoplasm of pancreas,4307,Bajo,0,1
+675,2006,France,"Malignant neoplasm of larynx,  trachea, bronchus and lung",23519,Bajo,0,1
+676,2006,France,Malignant melanoma of skin,818,Bajo,0,1
+677,2006,France,Malignant neoplasm of breast,191,Bajo,0,1
+678,2006,France,Malignant neoplasm of cervix uteri,12544,Bajo,0,1
+679,2006,France,Malignant neoplasm of other parts of uterus,12544,Bajo,0,1
+680,2006,France,Malignant neoplasm of ovary,12544,Bajo,0,1
+681,2006,France,Malignant neoplasm of prostate,9236,Bajo,0,1
+682,2006,France,"Malignant neoplasm of kidney, except renal pelvis",2034,Bajo,0,1
+683,2006,France,Malignant neoplasm of bladder,3579,Bajo,0,1
+684,2006,France,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",6836,Bajo,0,1
+685,2006,France,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,962,Bajo,0,1
+686,2006,France,"Endocrine, nutritional and metabolic diseases (E00-E90)",8372,Bajo,0,1
+687,2006,France,Diabetes mellitus,5433,Bajo,0,1
+688,2006,France,Mental and behavioural disorders (F00-F99),7201,Bajo,0,1
+689,2006,France,Mental and behavioural disorders due to use of alcohol,2477,Bajo,0,1
+690,2006,France,"Drug dependence, toxicomania (F11-F16, F18-F19)",176,Bajo,0,1
+691,2006,France,Diseases of the nervous system and the sense organs (G00-H95),11398,Bajo,0,1
+692,2006,France,Meningitis,78,Bajo,0,1
+693,2006,France,Diseases of the circulatory system (I00-I99),69625,Bajo,0,1
+694,2006,France,Ischaemic heart diseases,22363,Bajo,0,1
+695,2006,France,"Other heart diseases (I30-I33, I39-I52)",18915,Bajo,0,1
+696,2006,France,Cerebrovascular diseases,14235,Bajo,0,1
+697,2006,France,Diseases of the respiratory system (J00-J99),16581,Bajo,0,1
+698,2006,France,Influenza,50,Bajo,0,1
+699,2006,France,Pneumonia,4653,Bajo,0,1
+700,2006,France,Chronic lower respiratory diseases,5511,Bajo,0,1
+701,2006,France,Asthma and status asthmaticus,388,Bajo,0,1
+702,2006,France,Diseases of the digestive system (K00-K93),12758,Bajo,0,1
+703,2006,France,"Ulcer of stomach, duodenum and jejunum",398,Bajo,0,1
+704,2006,France,Chronic liver disease,5554,Bajo,0,1
+705,2006,France,Diseases of the skin and subcutaneous tissue (L00-L99),546,Bajo,0,1
+706,2006,France,Diseases of the musculoskeletal system and connective tissue (M00-M99),1234,Bajo,0,1
+707,2006,France,"Rheumatoid arthritis and arthrosis (M05-M06,M15-M19)",137,Bajo,0,1
+708,2006,France,Diseases of the genitourinary system  (N00-N99),4192,Bajo,0,1
+709,2006,France,Diseases of kidney and ureter,3258,Bajo,0,1
+710,2006,France,"Pregnancy, childbirth and the puerperium (O00-O99)",12544,Bajo,0,1
+711,2006,France,Certain conditions originating in the perinatal period (P00-P96),910,Bajo,0,1
+712,2006,France,"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",843,Bajo,0,1
+713,2006,France,Congenital malformations of the nervous system,84,Bajo,0,1
+714,2006,France,Congenital malformations of the circulatory system,330,Bajo,0,1
+715,2006,France,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified (R00-R99)",15332,Bajo,0,1
+716,2006,France,Sudden infant death syndrome,144,Bajo,0,1
+717,2006,France,Ill-defined and unknown causes of mortality,6860,Bajo,0,1
+718,2006,France,External causes of morbidity and mortality (V01-Y89),22914,Bajo,0,1
+719,2006,France,Accidents,13524,Bajo,0,1
+720,2006,France,Transport accidents (V01-V99),3828,Bajo,0,1
+721,2006,France,Falls,2610,Bajo,0,1
+722,2006,France,Accidental poisoning by and exposure to noxious substances,555,Bajo,0,1
+723,2006,France,Intentional self-harm,7740,Bajo,0,1
+724,2006,France,Assault,327,Bajo,0,1
+725,2006,France,Event of undetermined intent,414,Bajo,0,1
+726,2006,France,All causes of death (A00-Y89) excluding S00-T98,255160,Alto,1,0
+727,2006,France,Certain infectious and parasitic diseases (A00-B99),4961,Bajo,1,0
+728,2006,France,Tuberculosis,341,Bajo,1,0
+729,2006,France,Meningococcal infection,17,Bajo,1,0
+730,2006,France,Viral hepatitis,335,Bajo,1,0
+731,2006,France,Human immunodeficiency virus [HIV] disease,218,Bajo,1,0
+732,2006,France,Neoplasms,64651,Bajo,1,0
+733,2006,France,Malignant neoplasms (C00-C97),61464,Bajo,1,0
+734,2006,France,"Malignant neoplasm of lip, oral cavity, pharynx",734,Bajo,1,0
+735,2006,France,Malignant neoplasm of oesophagus,719,Bajo,1,0
+736,2006,France,Malignant neoplasm of stomach,1784,Bajo,1,0
+737,2006,France,Malignant neoplasm of colon,5917,Bajo,1,0
+738,2006,France,"Malignant neoplasm of rectosigmoid junction, rectum, anus and anal canal",1892,Bajo,1,0
+739,2006,France,Malignant neoplasm of liver and intrahepatic bile ducts,1972,Bajo,1,0
+740,2006,France,Malignant neoplasm of pancreas,4049,Bajo,1,0
+741,2006,France,"Malignant neoplasm of larynx,  trachea, bronchus and lung",6534,Bajo,1,0
+742,2006,France,Malignant melanoma of skin,741,Bajo,1,0
+743,2006,France,Malignant neoplasm of breast,11584,Bajo,1,0
+744,2006,France,Malignant neoplasm of cervix uteri,744,Bajo,1,0
+745,2006,France,Malignant neoplasm of other parts of uterus,2389,Bajo,1,0
+746,2006,France,Malignant neoplasm of ovary,3363,Bajo,1,0
+747,2006,France,Malignant neoplasm of prostate,12544,Bajo,1,0
+748,2006,France,"Malignant neoplasm of kidney, except renal pelvis",1110,Bajo,1,0
+749,2006,France,Malignant neoplasm of bladder,1156,Bajo,1,0
+750,2006,France,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",5879,Bajo,1,0
+751,2006,France,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,1272,Bajo,1,0
+752,2006,France,"Endocrine, nutritional and metabolic diseases (E00-E90)",11117,Bajo,1,0
+753,2006,France,Diabetes mellitus,6086,Bajo,1,0
+754,2006,France,Mental and behavioural disorders (F00-F99),9632,Bajo,1,0
+755,2006,France,Mental and behavioural disorders due to use of alcohol,619,Bajo,1,0
+756,2006,France,"Drug dependence, toxicomania (F11-F16, F18-F19)",25,Bajo,1,0
+757,2006,France,Diseases of the nervous system and the sense organs (G00-H95),16212,Bajo,1,0
+758,2006,France,Meningitis,76,Bajo,1,0
+759,2006,France,Diseases of the circulatory system (I00-I99),78832,Bajo,1,0
+760,2006,France,Ischaemic heart diseases,17030,Bajo,1,0
+761,2006,France,"Other heart diseases (I30-I33, I39-I52)",25073,Bajo,1,0
+762,2006,France,Cerebrovascular diseases,19390,Bajo,1,0
+763,2006,France,Diseases of the respiratory system (J00-J99),14546,Bajo,1,0
+764,2006,France,Influenza,77,Bajo,1,0
+765,2006,France,Pneumonia,5190,Bajo,1,0
+766,2006,France,Chronic lower respiratory diseases,3305,Bajo,1,0
+767,2006,France,Asthma and status asthmaticus,657,Bajo,1,0
+768,2006,France,Diseases of the digestive system (K00-K93),10820,Bajo,1,0
+769,2006,France,"Ulcer of stomach, duodenum and jejunum",393,Bajo,1,0
+770,2006,France,Chronic liver disease,2308,Bajo,1,0
+771,2006,France,Diseases of the skin and subcutaneous tissue (L00-L99),1284,Bajo,1,0
+772,2006,France,Diseases of the musculoskeletal system and connective tissue (M00-M99),2305,Bajo,1,0
+773,2006,France,"Rheumatoid arthritis and arthrosis (M05-M06,M15-M19)",449,Bajo,1,0
+774,2006,France,Diseases of the genitourinary system  (N00-N99),4331,Bajo,1,0
+775,2006,France,Diseases of kidney and ureter,3391,Bajo,1,0
+776,2006,France,"Pregnancy, childbirth and the puerperium (O00-O99)",68,Bajo,1,0
+777,2006,France,Certain conditions originating in the perinatal period (P00-P96),638,Bajo,1,0
+778,2006,France,"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",724,Bajo,1,0
+779,2006,France,Congenital malformations of the nervous system,64,Bajo,1,0
+780,2006,France,Congenital malformations of the circulatory system,292,Bajo,1,0
+781,2006,France,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified (R00-R99)",18966,Bajo,1,0
+782,2006,France,Sudden infant death syndrome,113,Bajo,1,0
+783,2006,France,Ill-defined and unknown causes of mortality,5473,Bajo,1,0
+784,2006,France,External causes of morbidity and mortality (V01-Y89),14801,Bajo,1,0
+785,2006,France,Accidents,10861,Bajo,1,0
+786,2006,France,Transport accidents (V01-V99),1197,Bajo,1,0
+787,2006,France,Falls,2709,Bajo,1,0
+788,2006,France,Accidental poisoning by and exposure to noxious substances,510,Bajo,1,0
+789,2006,France,Intentional self-harm,2861,Bajo,1,0
+790,2006,France,Assault,159,Bajo,1,0
+791,2006,France,Event of undetermined intent,76,Bajo,1,0
+792,2007,France,All causes of death (A00-Y89) excluding S00-T98,273401,Alto,0,1
+793,2007,France,Certain infectious and parasitic diseases (A00-B99),5266,Bajo,0,1
+794,2007,France,Tuberculosis,364,Bajo,0,1
+795,2007,France,Meningococcal infection,17,Bajo,0,1
+796,2007,France,Viral hepatitis,408,Bajo,0,1
+797,2007,France,Human immunodeficiency virus [HIV] disease,597,Bajo,0,1
+798,2007,France,Neoplasms,93773,Bajo,0,1
+799,2007,France,Malignant neoplasms (C00-C97),90397,Bajo,0,1
+800,2007,France,"Malignant neoplasm of lip, oral cavity, pharynx",3317,Bajo,0,1
+801,2007,France,Malignant neoplasm of oesophagus,3196,Bajo,0,1
+802,2007,France,Malignant neoplasm of stomach,3123,Bajo,0,1
+803,2007,France,Malignant neoplasm of colon,6416,Bajo,0,1
+804,2007,France,"Malignant neoplasm of rectosigmoid junction, rectum, anus and anal canal",2357,Bajo,0,1
+805,2007,France,Malignant neoplasm of liver and intrahepatic bile ducts,5529,Bajo,0,1
+806,2007,France,Malignant neoplasm of pancreas,4493,Bajo,0,1
+807,2007,France,"Malignant neoplasm of larynx,  trachea, bronchus and lung",23584,Bajo,0,1
+808,2007,France,Malignant melanoma of skin,879,Bajo,0,1
+809,2007,France,Malignant neoplasm of breast,225,Bajo,0,1
+810,2007,France,Malignant neoplasm of cervix uteri,12544,Bajo,0,1
+811,2007,France,Malignant neoplasm of other parts of uterus,12544,Bajo,0,1
+812,2007,France,Malignant neoplasm of ovary,12544,Bajo,0,1
+813,2007,France,Malignant neoplasm of prostate,9297,Bajo,0,1
+814,2007,France,"Malignant neoplasm of kidney, except renal pelvis",2015,Bajo,0,1
+815,2007,France,Malignant neoplasm of bladder,3674,Bajo,0,1
+816,2007,France,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",6958,Bajo,0,1
+817,2007,France,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,1025,Bajo,0,1
+818,2007,France,"Endocrine, nutritional and metabolic diseases (E00-E90)",8392,Bajo,0,1
+819,2007,France,Diabetes mellitus,5367,Bajo,0,1
+820,2007,France,Mental and behavioural disorders (F00-F99),7420,Bajo,0,1
+821,2007,France,Mental and behavioural disorders due to use of alcohol,2438,Bajo,0,1
+822,2007,France,"Drug dependence, toxicomania (F11-F16, F18-F19)",172,Bajo,0,1
+823,2007,France,Diseases of the nervous system and the sense organs (G00-H95),11612,Bajo,0,1
+824,2007,France,Meningitis,79,Bajo,0,1
+825,2007,France,Diseases of the circulatory system (I00-I99),69630,Bajo,0,1
+826,2007,France,Ischaemic heart diseases,22027,Bajo,0,1
+827,2007,France,"Other heart diseases (I30-I33, I39-I52)",19416,Bajo,0,1
+828,2007,France,Cerebrovascular diseases,14085,Bajo,0,1
+829,2007,France,Diseases of the respiratory system (J00-J99),17257,Bajo,0,1
+830,2007,France,Influenza,96,Bajo,0,1
+831,2007,France,Pneumonia,5118,Bajo,0,1
+832,2007,France,Chronic lower respiratory diseases,5649,Bajo,0,1
+833,2007,France,Asthma and status asthmaticus,368,Bajo,0,1
+834,2007,France,Diseases of the digestive system (K00-K93),12641,Bajo,0,1
+835,2007,France,"Ulcer of stomach, duodenum and jejunum",398,Bajo,0,1
+836,2007,France,Chronic liver disease,5453,Bajo,0,1
+837,2007,France,Diseases of the skin and subcutaneous tissue (L00-L99),504,Bajo,0,1
+838,2007,France,Diseases of the musculoskeletal system and connective tissue (M00-M99),1138,Bajo,0,1
+839,2007,France,"Rheumatoid arthritis and arthrosis (M05-M06,M15-M19)",138,Bajo,0,1
+840,2007,France,Diseases of the genitourinary system  (N00-N99),4180,Bajo,0,1
+841,2007,France,Diseases of kidney and ureter,3239,Bajo,0,1
+842,2007,France,"Pregnancy, childbirth and the puerperium (O00-O99)",12544,Bajo,0,1
+843,2007,France,Certain conditions originating in the perinatal period (P00-P96),859,Bajo,0,1
+844,2007,France,"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",899,Bajo,0,1
+845,2007,France,Congenital malformations of the nervous system,69,Bajo,0,1
+846,2007,France,Congenital malformations of the circulatory system,354,Bajo,0,1
+847,2007,France,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified (R00-R99)",16045,Bajo,0,1
+848,2007,France,Sudden infant death syndrome,133,Bajo,0,1
+849,2007,France,Ill-defined and unknown causes of mortality,7022,Bajo,0,1
+850,2007,France,External causes of morbidity and mortality (V01-Y89),22760,Bajo,0,1
+851,2007,France,Accidents,13585,Bajo,0,1
+852,2007,France,Transport accidents (V01-V99),3697,Bajo,0,1
+853,2007,France,Falls,2657,Bajo,0,1
+854,2007,France,Accidental poisoning by and exposure to noxious substances,709,Bajo,0,1
+855,2007,France,Intentional self-harm,7559,Bajo,0,1
+856,2007,France,Assault,268,Bajo,0,1
+857,2007,France,Event of undetermined intent,425,Bajo,0,1
+858,2007,France,All causes of death (A00-Y89) excluding S00-T98,257419,Alto,1,0
+859,2007,France,Certain infectious and parasitic diseases (A00-B99),4938,Bajo,1,0
+860,2007,France,Tuberculosis,318,Bajo,1,0
+861,2007,France,Meningococcal infection,17,Bajo,1,0
+862,2007,France,Viral hepatitis,317,Bajo,1,0
+863,2007,France,Human immunodeficiency virus [HIV] disease,197,Bajo,1,0
+864,2007,France,Neoplasms,64724,Bajo,1,0
+865,2007,France,Malignant neoplasms (C00-C97),61499,Bajo,1,0
+866,2007,France,"Malignant neoplasm of lip, oral cavity, pharynx",733,Bajo,1,0
+867,2007,France,Malignant neoplasm of oesophagus,780,Bajo,1,0
+868,2007,France,Malignant neoplasm of stomach,1734,Bajo,1,0
+869,2007,France,Malignant neoplasm of colon,5937,Bajo,1,0
+870,2007,France,"Malignant neoplasm of rectosigmoid junction, rectum, anus and anal canal",1842,Bajo,1,0
+871,2007,France,Malignant neoplasm of liver and intrahepatic bile ducts,1937,Bajo,1,0
+872,2007,France,Malignant neoplasm of pancreas,4246,Bajo,1,0
+873,2007,France,"Malignant neoplasm of larynx,  trachea, bronchus and lung",6729,Bajo,1,0
+874,2007,France,Malignant melanoma of skin,675,Bajo,1,0
+875,2007,France,Malignant neoplasm of breast,11522,Bajo,1,0
+876,2007,France,Malignant neoplasm of cervix uteri,714,Bajo,1,0
+877,2007,France,Malignant neoplasm of other parts of uterus,2481,Bajo,1,0
+878,2007,France,Malignant neoplasm of ovary,3393,Bajo,1,0
+879,2007,France,Malignant neoplasm of prostate,12544,Bajo,1,0
+880,2007,France,"Malignant neoplasm of kidney, except renal pelvis",1021,Bajo,1,0
+881,2007,France,Malignant neoplasm of bladder,1183,Bajo,1,0
+882,2007,France,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",5887,Bajo,1,0
+883,2007,France,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,1163,Bajo,1,0
+884,2007,France,"Endocrine, nutritional and metabolic diseases (E00-E90)",11019,Bajo,1,0
+885,2007,France,Diabetes mellitus,6134,Bajo,1,0
+886,2007,France,Mental and behavioural disorders (F00-F99),9692,Bajo,1,0
+887,2007,France,Mental and behavioural disorders due to use of alcohol,601,Bajo,1,0
+888,2007,France,"Drug dependence, toxicomania (F11-F16, F18-F19)",27,Bajo,1,0
+889,2007,France,Diseases of the nervous system and the sense organs (G00-H95),17305,Bajo,1,0
+890,2007,France,Meningitis,89,Bajo,1,0
+891,2007,France,Diseases of the circulatory system (I00-I99),78472,Bajo,1,0
+892,2007,France,Ischaemic heart diseases,16663,Bajo,1,0
+893,2007,France,"Other heart diseases (I30-I33, I39-I52)",25355,Bajo,1,0
+894,2007,France,Cerebrovascular diseases,18724,Bajo,1,0
+895,2007,France,Diseases of the respiratory system (J00-J99),15348,Bajo,1,0
+896,2007,France,Influenza,153,Bajo,1,0
+897,2007,France,Pneumonia,5401,Bajo,1,0
+898,2007,France,Chronic lower respiratory diseases,3539,Bajo,1,0
+899,2007,France,Asthma and status asthmaticus,694,Bajo,1,0
+900,2007,France,Diseases of the digestive system (K00-K93),10833,Bajo,1,0
+901,2007,France,"Ulcer of stomach, duodenum and jejunum",413,Bajo,1,0
+902,2007,France,Chronic liver disease,2321,Bajo,1,0
+903,2007,France,Diseases of the skin and subcutaneous tissue (L00-L99),1200,Bajo,1,0
+904,2007,France,Diseases of the musculoskeletal system and connective tissue (M00-M99),2317,Bajo,1,0
+905,2007,France,"Rheumatoid arthritis and arthrosis (M05-M06,M15-M19)",494,Bajo,1,0
+906,2007,France,Diseases of the genitourinary system  (N00-N99),4528,Bajo,1,0
+907,2007,France,Diseases of kidney and ureter,3551,Bajo,1,0
+908,2007,France,"Pregnancy, childbirth and the puerperium (O00-O99)",70,Bajo,1,0
+909,2007,France,Certain conditions originating in the perinatal period (P00-P96),642,Bajo,1,0
+910,2007,France,"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",711,Bajo,1,0
+911,2007,France,Congenital malformations of the nervous system,52,Bajo,1,0
+912,2007,France,Congenital malformations of the circulatory system,254,Bajo,1,0
+913,2007,France,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified (R00-R99)",19640,Bajo,1,0
+914,2007,France,Sudden infant death syndrome,85,Bajo,1,0
+915,2007,France,Ill-defined and unknown causes of mortality,5703,Bajo,1,0
+916,2007,France,External causes of morbidity and mortality (V01-Y89),14817,Bajo,1,0
+917,2007,France,Accidents,10951,Bajo,1,0
+918,2007,France,Transport accidents (V01-V99),1162,Bajo,1,0
+919,2007,France,Falls,2832,Bajo,1,0
+920,2007,France,Accidental poisoning by and exposure to noxious substances,517,Bajo,1,0
+921,2007,France,Intentional self-harm,2744,Bajo,1,0
+922,2007,France,Assault,166,Bajo,1,0
+923,2007,France,Event of undetermined intent,82,Bajo,1,0
+924,2008,France,All causes of death (A00-Y89) excluding S00-T98,277598,Alto,0,1
+925,2008,France,Certain infectious and parasitic diseases (A00-B99),5434,Bajo,0,1
+926,2008,France,Tuberculosis,343,Bajo,0,1
+927,2008,France,Meningococcal infection,18,Bajo,0,1
+928,2008,France,Viral hepatitis,462,Bajo,0,1
+929,2008,France,Human immunodeficiency virus [HIV] disease,518,Bajo,0,1
+930,2008,France,Neoplasms,93872,Bajo,0,1
+931,2008,France,Malignant neoplasms (C00-C97),90481,Bajo,0,1
+932,2008,France,"Malignant neoplasm of lip, oral cavity, pharynx",3217,Bajo,0,1
+933,2008,France,Malignant neoplasm of oesophagus,3175,Bajo,0,1
+934,2008,France,Malignant neoplasm of stomach,3020,Bajo,0,1
+935,2008,France,Malignant neoplasm of colon,6505,Bajo,0,1
+936,2008,France,"Malignant neoplasm of rectosigmoid junction, rectum, anus and anal canal",2533,Bajo,0,1
+937,2008,France,Malignant neoplasm of liver and intrahepatic bile ducts,5544,Bajo,0,1
+938,2008,France,Malignant neoplasm of pancreas,4767,Bajo,0,1
+939,2008,France,"Malignant neoplasm of larynx,  trachea, bronchus and lung",23491,Bajo,0,1
+940,2008,France,Malignant melanoma of skin,916,Bajo,0,1
+941,2008,France,Malignant neoplasm of breast,195,Bajo,0,1
+942,2008,France,Malignant neoplasm of cervix uteri,12544,Bajo,0,1
+943,2008,France,Malignant neoplasm of other parts of uterus,12544,Bajo,0,1
+944,2008,France,Malignant neoplasm of ovary,12544,Bajo,0,1
+945,2008,France,Malignant neoplasm of prostate,9195,Bajo,0,1
+946,2008,France,"Malignant neoplasm of kidney, except renal pelvis",2059,Bajo,0,1
+947,2008,France,Malignant neoplasm of bladder,3527,Bajo,0,1
+948,2008,France,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",7043,Bajo,0,1
+949,2008,France,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,1004,Bajo,0,1
+950,2008,France,"Endocrine, nutritional and metabolic diseases (E00-E90)",8892,Bajo,0,1
+951,2008,France,Diabetes mellitus,5615,Bajo,0,1
+952,2008,France,Mental and behavioural disorders (F00-F99),7718,Bajo,0,1
+953,2008,France,Mental and behavioural disorders due to use of alcohol,2510,Bajo,0,1
+954,2008,France,"Drug dependence, toxicomania (F11-F16, F18-F19)",171,Bajo,0,1
+955,2008,France,Diseases of the nervous system and the sense organs (G00-H95),12373,Bajo,0,1
+956,2008,France,Meningitis,79,Bajo,0,1
+957,2008,France,Diseases of the circulatory system (I00-I99),69721,Bajo,0,1
+958,2008,France,Ischaemic heart diseases,21842,Bajo,0,1
+959,2008,France,"Other heart diseases (I30-I33, I39-I52)",19698,Bajo,0,1
+960,2008,France,Cerebrovascular diseases,13951,Bajo,0,1
+961,2008,France,Diseases of the respiratory system (J00-J99),17516,Bajo,0,1
+962,2008,France,Influenza,82,Bajo,0,1
+963,2008,France,Pneumonia,5107,Bajo,0,1
+964,2008,France,Chronic lower respiratory diseases,5808,Bajo,0,1
+965,2008,France,Asthma and status asthmaticus,336,Bajo,0,1
+966,2008,France,Diseases of the digestive system (K00-K93),12981,Bajo,0,1
+967,2008,France,"Ulcer of stomach, duodenum and jejunum",440,Bajo,0,1
+968,2008,France,Chronic liver disease,5440,Bajo,0,1
+969,2008,France,Diseases of the skin and subcutaneous tissue (L00-L99),532,Bajo,0,1
+970,2008,France,Diseases of the musculoskeletal system and connective tissue (M00-M99),1344,Bajo,0,1
+971,2008,France,"Rheumatoid arthritis and arthrosis (M05-M06,M15-M19)",136,Bajo,0,1
+972,2008,France,Diseases of the genitourinary system  (N00-N99),4540,Bajo,0,1
+973,2008,France,Diseases of kidney and ureter,3559,Bajo,0,1
+974,2008,France,"Pregnancy, childbirth and the puerperium (O00-O99)",12544,Bajo,0,1
+975,2008,France,Certain conditions originating in the perinatal period (P00-P96),876,Bajo,0,1
+976,2008,France,"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",762,Bajo,0,1
+977,2008,France,Congenital malformations of the nervous system,68,Bajo,0,1
+978,2008,France,Congenital malformations of the circulatory system,279,Bajo,0,1
+979,2008,France,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified (R00-R99)",16895,Bajo,0,1
+980,2008,France,Sudden infant death syndrome,152,Bajo,0,1
+981,2008,France,Ill-defined and unknown causes of mortality,7323,Bajo,0,1
+982,2008,France,External causes of morbidity and mortality (V01-Y89),23138,Bajo,0,1
+983,2008,France,Accidents,13815,Bajo,0,1
+984,2008,France,Transport accidents (V01-V99),3506,Bajo,0,1
+985,2008,France,Falls,2836,Bajo,0,1
+986,2008,France,Accidental poisoning by and exposure to noxious substances,785,Bajo,0,1
+987,2008,France,Intentional self-harm,7797,Bajo,0,1
+988,2008,France,Assault,347,Bajo,0,1
+989,2008,France,Event of undetermined intent,300,Bajo,0,1
+990,2008,France,All causes of death (A00-Y89) excluding S00-T98,265541,Alto,1,0
+991,2008,France,Certain infectious and parasitic diseases (A00-B99),5486,Bajo,1,0
+992,2008,France,Tuberculosis,310,Bajo,1,0
+993,2008,France,Meningococcal infection,17,Bajo,1,0
+994,2008,France,Viral hepatitis,359,Bajo,1,0
+995,2008,France,Human immunodeficiency virus [HIV] disease,180,Bajo,1,0
+996,2008,France,Neoplasms,66897,Bajo,1,0
+997,2008,France,Malignant neoplasms (C00-C97),63494,Bajo,1,0
+998,2008,France,"Malignant neoplasm of lip, oral cavity, pharynx",762,Bajo,1,0
+999,2008,France,Malignant neoplasm of oesophagus,776,Bajo,1,0
+1000,2008,France,Malignant neoplasm of stomach,1821,Bajo,1,0
+1001,2008,France,Malignant neoplasm of colon,6156,Bajo,1,0
+1002,2008,France,"Malignant neoplasm of rectosigmoid junction, rectum, anus and anal canal",1959,Bajo,1,0
+1003,2008,France,Malignant neoplasm of liver and intrahepatic bile ducts,2119,Bajo,1,0
+1004,2008,France,Malignant neoplasm of pancreas,4404,Bajo,1,0
+1005,2008,France,"Malignant neoplasm of larynx,  trachea, bronchus and lung",7043,Bajo,1,0
+1006,2008,France,Malignant melanoma of skin,750,Bajo,1,0
+1007,2008,France,Malignant neoplasm of breast,11781,Bajo,1,0
+1008,2008,France,Malignant neoplasm of cervix uteri,776,Bajo,1,0
+1009,2008,France,Malignant neoplasm of other parts of uterus,2434,Bajo,1,0
+1010,2008,France,Malignant neoplasm of ovary,3458,Bajo,1,0
+1011,2008,France,Malignant neoplasm of prostate,12544,Bajo,1,0
+1012,2008,France,"Malignant neoplasm of kidney, except renal pelvis",1049,Bajo,1,0
+1013,2008,France,Malignant neoplasm of bladder,1177,Bajo,1,0
+1014,2008,France,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",6099,Bajo,1,0
+1015,2008,France,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,1252,Bajo,1,0
+1016,2008,France,"Endocrine, nutritional and metabolic diseases (E00-E90)",11286,Bajo,1,0
+1017,2008,France,Diabetes mellitus,6098,Bajo,1,0
+1018,2008,France,Mental and behavioural disorders (F00-F99),9962,Bajo,1,0
+1019,2008,France,Mental and behavioural disorders due to use of alcohol,629,Bajo,1,0
+1020,2008,France,"Drug dependence, toxicomania (F11-F16, F18-F19)",31,Bajo,1,0
+1021,2008,France,Diseases of the nervous system and the sense organs (G00-H95),18698,Bajo,1,0
+1022,2008,France,Meningitis,75,Bajo,1,0
+1023,2008,France,Diseases of the circulatory system (I00-I99),79820,Bajo,1,0
+1024,2008,France,Ischaemic heart diseases,16464,Bajo,1,0
+1025,2008,France,"Other heart diseases (I30-I33, I39-I52)",26136,Bajo,1,0
+1026,2008,France,Cerebrovascular diseases,19211,Bajo,1,0
+1027,2008,France,Diseases of the respiratory system (J00-J99),15743,Bajo,1,0
+1028,2008,France,Influenza,124,Bajo,1,0
+1029,2008,France,Pneumonia,5701,Bajo,1,0
+1030,2008,France,Chronic lower respiratory diseases,3483,Bajo,1,0
+1031,2008,France,Asthma and status asthmaticus,613,Bajo,1,0
+1032,2008,France,Diseases of the digestive system (K00-K93),11049,Bajo,1,0
+1033,2008,France,"Ulcer of stomach, duodenum and jejunum",448,Bajo,1,0
+1034,2008,France,Chronic liver disease,2234,Bajo,1,0
+1035,2008,France,Diseases of the skin and subcutaneous tissue (L00-L99),1124,Bajo,1,0
+1036,2008,France,Diseases of the musculoskeletal system and connective tissue (M00-M99),2399,Bajo,1,0
+1037,2008,France,"Rheumatoid arthritis and arthrosis (M05-M06,M15-M19)",505,Bajo,1,0
+1038,2008,France,Diseases of the genitourinary system  (N00-N99),4676,Bajo,1,0
+1039,2008,France,Diseases of kidney and ureter,3606,Bajo,1,0
+1040,2008,France,"Pregnancy, childbirth and the puerperium (O00-O99)",64,Bajo,1,0
+1041,2008,France,Certain conditions originating in the perinatal period (P00-P96),695,Bajo,1,0
+1042,2008,France,"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",740,Bajo,1,0
+1043,2008,France,Congenital malformations of the nervous system,59,Bajo,1,0
+1044,2008,France,Congenital malformations of the circulatory system,261,Bajo,1,0
+1045,2008,France,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified (R00-R99)",20789,Bajo,1,0
+1046,2008,France,Sudden infant death syndrome,109,Bajo,1,0
+1047,2008,France,Ill-defined and unknown causes of mortality,6305,Bajo,1,0
+1048,2008,France,External causes of morbidity and mortality (V01-Y89),14861,Bajo,1,0
+1049,2008,France,Accidents,11051,Bajo,1,0
+1050,2008,France,Transport accidents (V01-V99),1045,Bajo,1,0
+1051,2008,France,Falls,2815,Bajo,1,0
+1052,2008,France,Accidental poisoning by and exposure to noxious substances,630,Bajo,1,0
+1053,2008,France,Intentional self-harm,2768,Bajo,1,0
+1054,2008,France,Assault,166,Bajo,1,0
+1055,2008,France,Event of undetermined intent,68,Bajo,1,0
